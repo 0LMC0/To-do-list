@@ -16,6 +16,6 @@ Project is created with:
 * Javascript
 	
 ## Setup
-To run this project you ccould run it as usual, only download or clone the repository!
+To run this project you can run it as usual, only download or clone the repository and you're good to go!
 
 By *Lautaro Caceres
